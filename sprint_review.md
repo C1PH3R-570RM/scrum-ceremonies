@@ -1,0 +1,15 @@
+### The Sprint Review is a key ceremony in the Scrum framework that occurs at the end of each sprint. It provides an opportunity for the development team to showcase the work they have completed during the sprint to stakeholders, product owners, and other interested parties. The Sprint Review focuses on feedback, collaboration, and inspecting the increment of work. Here's an overview of what a Sprint Review entails:
+
+#### Participants: The Sprint Review involves the development team, Scrum Master, product owner, stakeholders, and anyone else with a vested interest in the project's progress. The presence of the product owner is essential to provide clarifications, answer questions, and make decisions regarding the product.
+
+#### Demonstration of Completed Work: The development team presents the increment of work they have completed during the sprint. This may include new features, user stories, bug fixes, or any other tangible deliverables. The team demonstrates the functionality, explains the purpose and value of the completed work, and highlights any notable achievements.
+
+#### Feedback and Collaboration: After the demonstration, stakeholders and attendees have an opportunity to provide feedback, ask questions, and offer suggestions. They may discuss the features, usability, or any other aspects of the increment. The development team actively listens to the feedback and engages in collaborative discussions to gather insights and further refine the product.
+
+#### Review of Sprint Goals: The product owner reviews the sprint goal defined at the beginning of the sprint and evaluates whether it has been achieved. The team and stakeholders assess the increment's alignment with the overall project goals and discuss if any adjustments or refinements are necessary for future sprints.
+
+#### Retrospective Discussion: The Sprint Review often includes a retrospective discussion where the development team reflects on the sprint as a whole. They share what went well, what could be improved, and any lessons learned during the sprint. The retrospective focuses on the team's processes, collaboration, and ways to enhance future sprints.
+
+#### Adaptation and Product Backlog Refinement: Based on the feedback received during the Sprint Review, the product owner may make adjustments to the product backlog. New insights, suggestions, or requirements gathered during the meeting can inform the refinement of the backlog items for future sprints.
+
+### The Sprint Review is an opportunity for stakeholders and the development team to come together, inspect the increment, and engage in meaningful conversations. It promotes transparency, collaboration, and continuous improvement. The feedback and insights gathered during the Sprint Review contribute to the iterative and incremental nature of the Scrum framework, guiding the product's evolution.
